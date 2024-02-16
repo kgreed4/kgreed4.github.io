@@ -54,6 +54,8 @@ h2 {
 
 .social-icons {
     margin-top: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 .social-icons img {
